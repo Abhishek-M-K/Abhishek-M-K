@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Abhishek Khandare </font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/abhishekkhandare target="_blank" rel="noreferrer">Abhishek</a> is a passionate Fullstack Developer from India, breaking and building things for 1+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/abhishekkhandare" target="_blank" rel="noreferrer">Abhishek</a> is a passionate Fullstack Developer from India, breaking and building things for 1+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
@@ -12,7 +12,7 @@
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 - My socials are listed below
-  - LinkedIn at [abhishekkhandare](www.linkedin.com/in/abhishekkhandare)
+  - LinkedIn at [abhishekkhandare](https://www.linkedin.com/in/abhishekkhandare)
   - Twitter at  [abhishekkhandare](https://twitter.com/khandare98ak)
   - Mail me at **khandareabhishek98@gmail.com** regarding any work or just for connecting :) 
 
