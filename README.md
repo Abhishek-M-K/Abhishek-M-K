@@ -5,7 +5,7 @@
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 - 📍 Mumbai, India
-- I am currently working with technologies based on Javascript. Techs such as ReactJS, NextJS, NodeJS.
+- I am currently working with technologies based on Javascript and Typescript. Techs such as ReactJS, NextJS, NodeJS.
 - I usually work on Frontend, Backend, Microservices, Scaling, Testing (Jest) and things revolving around web-development.
 - I like to develop complex yet user-friendly UI while building an interactive application.
 
